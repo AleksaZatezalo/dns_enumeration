@@ -9,11 +9,6 @@ A Python-based DNS enumeration tool that allows you to discover and analyze DNS 
 - Built-in wordlist generator with common subdomain names
 - Interactive command-line interface
 
-## Prerequisites
-
-- Python 3.6 or higher
-- dnspython library
-
 ## Installation
 
 1. Clone this repository:
@@ -74,15 +69,3 @@ Subdomains found:
 [+] Found subdomain: mail.example.com
 [+] Found subdomain: api.example.com
 ```
-
-## Security Considerations
-
-This tool is intended for legitimate security testing and network administration purposes. Always ensure you have permission to perform DNS enumeration on the target domain.
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on contributing to this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
